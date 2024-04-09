@@ -16,9 +16,12 @@ pip install -r requirements.txt
 ```
 
 To download datasets, please visit the corresponding web pages:
-[FFHQ](https://github.com/NVlabs/ffhq-dataset) - [CelebAMaskHQ](https://github.com/switchablenorms/CelebAMask-HQ) - 
-[Places](http://places2.csail.mit.edu/download.html) - [ImageNet](http://image-net.org/download) - 
-[graffiti](https://github.com/pavelkraleu/graffiti-dataset) - [raindrop](https://github.com/rui1996/DeRaindrop). 
+[FFHQ](https://github.com/NVlabs/ffhq-dataset) - 
+[CelebAMaskHQ](https://github.com/switchablenorms/CelebAMask-HQ) - 
+[Places](http://places2.csail.mit.edu/download.html) - 
+[ImageNet](http://image-net.org/download) - 
+[graffiti](https://github.com/pavelkraleu/graffiti-dataset) - 
+[raindrop](https://github.com/rui1996/DeRaindrop). 
 
 After downloading, extract each of them to corresponding folder that you created as:
 ```
